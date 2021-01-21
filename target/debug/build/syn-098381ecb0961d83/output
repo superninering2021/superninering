@@ -1,0 +1,2 @@
+cargo:rustc-cfg=syn_no_const_vec_new
+cargo:rustc-cfg=syn_disable_nightly_tests

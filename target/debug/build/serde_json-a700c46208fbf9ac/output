@@ -1,0 +1,3 @@
+cargo:rustc-cfg=limb_width_64
+cargo:rustc-cfg=no_btreemap_get_key_value
+cargo:rustc-cfg=no_btreemap_remove_entry

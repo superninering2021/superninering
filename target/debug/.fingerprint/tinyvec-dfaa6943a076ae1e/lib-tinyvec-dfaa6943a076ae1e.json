@@ -1,0 +1,1 @@
+{"rustc":18183863943228103741,"features":"[\"alloc\", \"default\", \"tinyvec_macros\"]","target":1112108760511437798,"profile":9935990280773120926,"path":11127312037881457287,"deps":[[6535664481540118762,"tinyvec_macros",false,1311588150083369006]],"local":[{"Precalculated":"1.1.0"}],"rustflags":[],"metadata":1794145956658384099}

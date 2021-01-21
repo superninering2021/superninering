@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/icrack/Downloads/nrsc-main/target/debug/build/typenum-d418ddcd1916fe89/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/icrack/Downloads/nrsc-main/target/debug/build/typenum-d418ddcd1916fe89/out/op.rs

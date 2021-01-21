@@ -1,0 +1,12 @@
+/Users/icrack/Downloads/nrsc-main/target/debug/deps/term-36fa5d75d16f6000.rmeta: /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/lib.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/mod.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/searcher.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/compiled.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/names.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parm.rs
+
+/Users/icrack/Downloads/nrsc-main/target/debug/deps/libterm-36fa5d75d16f6000.rlib: /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/lib.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/mod.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/searcher.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/compiled.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/names.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parm.rs
+
+/Users/icrack/Downloads/nrsc-main/target/debug/deps/term-36fa5d75d16f6000.d: /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/lib.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/mod.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/searcher.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/compiled.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/names.rs /Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parm.rs
+
+/Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/lib.rs:
+/Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/mod.rs:
+/Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/searcher.rs:
+/Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/compiled.rs:
+/Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parser/names.rs:
+/Users/icrack/.cargo/registry/src/github.com-1ecc6299db9ec823/term-0.4.6/src/terminfo/parm.rs:
